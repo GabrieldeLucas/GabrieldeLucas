@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm Lucas Gabriel<br><br>- 💼 Open to work<br>- 📍 São Paulo, SP, Brazil<br>- 🔭 I’m a Backend Developer<br>- 📚 I'm currently learning Spring Boot  2<br>- ⚡ I want to improve my skills and learn new technologies.  My goal with programming is to create engaging and memorable digital experiences.  Constantly looking to learn and evolve.</p>
+<p align="left">I'm Lucas Gabriel<br><br>- 💼 Open to work<br>- 📍 São Paulo, SP, Brazil<br>- 🔭 I’m a Backend Developer<br>- 📚 I'm currently learning Spring Boot  <br>- ⚡ I want to improve my skills and learn new technologies.  My goal with programming is to create engaging and memorable digital experiences.  Constantly looking to learn and evolve.</p>
 
 ###
 
