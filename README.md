@@ -36,7 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 <img width="12" />
-  <img src="https://freesvg.org/img/387.png" height="140" alt="python logo" height="-80" alt="nest logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-svg-png-download-3030224.png?f=webp" height="40" alt="python logo" height="40" alt="nest logo"  />
 <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
 <img width="12" />
