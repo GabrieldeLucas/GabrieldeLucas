@@ -30,8 +30,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -40,7 +38,7 @@
 <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
 <img width="12" />
-<img src="https://skills.thijs.gg/icons?i=mongodb,figma,git,tailwind,next" height="40" alt="others"  />
+<img src="https://chatgpt.com/backend-api/public_content/enc/eyJpZCI6Im1fNjhiOTcwZDFiYWQ0ODE5MTkwYjhjNDljYWQxNDdmOTU6ZmlsZV8wMDAwMDAwMDExNTQ2MWY4YTkzYzI5Y2E5NTdiZTFjMiIsInRzIjoiNDg4MDUwIiwicCI6InB5aSIsInNpZyI6IjBhYTMwYTU5YzVlZTc2ODgxYjA4NDEzZGEyNjdmZWUzNmZiNmVmNTk5NzFhODZjMDk4ZWU2NTQ5ODlmMDc1ZGEiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsLCJjcCI6bnVsbH0=" height="40" alt="others"  />
 </div>
 
 ###
